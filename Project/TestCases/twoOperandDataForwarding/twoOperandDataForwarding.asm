@@ -1,0 +1,12 @@
+5
+125
+
+LDM R1,7
+LDM R2,6
+Add R1,R2
+LDM R0,9  
+OR  R2,R0
+OUT R2
+
+.125
+RTI

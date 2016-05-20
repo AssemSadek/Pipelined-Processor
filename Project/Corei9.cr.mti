@@ -1,0 +1,204 @@
+D:/Project/my_adder.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Project/my_adder.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity my_adder
+-- Compiling architecture a_my_adder of my_adder
+
+} {} {}} D:/Project/ForwardUnit.vhd {1 {vcom -work work -2002 -explicit -stats=none {D:\Project\ForwardUnit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ForwardUnit
+-- Compiling architecture ForwardUnit_function of ForwardUnit
+
+} {} {}} D:/Project/BranchUnit.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Project/BranchUnit.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity BranchUnit
+-- Compiling architecture BranchUnit_function of BranchUnit
+
+} {} {}} D:/Project/M-WB_Reg.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Project/M-WB_Reg.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MWB_Reg
+-- Compiling architecture MWB_Reg_arch of MWB_Reg
+
+} {} {}} D:/Project/DEC_3TO8.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Project/DEC_3TO8.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity DEC_3TO8
+-- Compiling architecture DEC_3TO8_Arch of DEC_3TO8
+
+} {} {}} D:/Project/Push_Pop_ForwardUnit.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Project/Push_Pop_ForwardUnit.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Push_Pop_ForwardUnit
+-- Compiling architecture Push_Pop_Archi of Push_Pop_ForwardUnit
+
+} {} {}} D:/Project/D-E_Reg.vhd {1 {vcom -work work -2002 -explicit -stats=none {D:\Project\D-E_Reg.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity DEx_Reg
+-- Compiling architecture DEx_Reg_arch of DEx_Reg
+
+} {} {}} D:/Project/MUX_3x8.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Project/MUX_3x8.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUX_3x8
+-- Compiling architecture MUX_3x8_Arch of MUX_3x8
+
+} {} {}} D:/Project/F-D_Reg.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Project/F-D_Reg.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FD_Reg
+-- Compiling architecture FD_Reg_arch of FD_Reg
+
+} {} {}} D:/Project/Reg_File.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Project/Reg_File.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Reg_File
+-- Compiling architecture Reg_File_arch of Reg_File
+
+} {} {}} D:/Project/one_bit_reg.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Project/one_bit_reg.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity One_Bit_Reg
+-- Compiling architecture One_Bit_Reg_arch of One_Bit_Reg
+
+} {} {}} D:/Project/MemoryN.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Project/MemoryN.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity syncram
+-- Compiling architecture syncrama of syncram
+
+} {} {}} D:/Project/partA.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Project/partA.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ALU
+-- Compiling architecture mainALU of ALU
+
+} {} {}} D:/Project/DFF.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Project/DFF.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity DFF
+-- Compiling architecture DFF_Arch of DFF
+
+} {} {}} D:/Project/Test.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Project/Test.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Test_Bench
+-- Compiling architecture Test_ALU of Test_bench
+
+} {} {}} D:/Project/partB.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Project/partB.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity partB
+-- Compiling architecture mainB of partB
+
+} {} {}} D:/Project/ControlUnit.vhd {1 {vcom -work work -2002 -explicit -stats=none {D:\Project\ControlUnit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ControlUnit
+-- Compiling architecture ControlUnit_function of ControlUnit
+
+} {} {}} D:/Project/partC.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Project/partC.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity partC
+-- Compiling architecture mainC of partC
+
+} {} {}} D:/Project/partD.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Project/partD.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity partD
+-- Compiling architecture mainD of partD
+
+} {} {}} D:/Project/my_nadder.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Project/my_nadder.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity my_nadder
+-- Compiling architecture a_my_nadder of my_nadder
+
+} {} {}} D:/Project/General_Reg.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Project/General_Reg.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity General_Reg
+-- Compiling architecture General_Reg_arch of General_Reg
+
+} {} {}} D:/Project/Corei9.vhd {1 {vcom -work work -2002 -explicit -stats=none {D:\Project\Corei9.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity Corei9
+-- Compiling architecture Corei9_function of Corei9
+
+} {} {}} D:/Project/partE.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Project/partE.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity partE
+-- Compiling architecture mainE of partE
+
+} {} {}} D:/Project/E-M_Reg.vhd {1 {vcom -work work -2002 -explicit -stats=none {D:\Project\E-M_Reg.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ExM_Reg
+-- Compiling architecture ExM_Reg_arch of ExM_Reg
+
+} {} {}}

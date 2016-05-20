@@ -1,0 +1,28 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+
+Entity Push_Pop_ForwardUnit is
+
+port ( E_MPushSig: in std_logic;
+       M_WBPushSig: in std_logic;
+       Mux: out std_logic_vector (1 downto 0)
+      );
+end entity Push_Pop_ForwardUnit;
+
+architecture Push_Pop_Archi of Push_Pop_ForwardUnit is
+
+begin
+
+Mux <= "01" when ((E_MPushSig = '1') and (M_WBPushSig = '0')) else
+       "10" when (M_WBPushSig = '1') else
+       "00";
+end architecture Push_Pop_Archi;
+
+
+
+
+
+     
+

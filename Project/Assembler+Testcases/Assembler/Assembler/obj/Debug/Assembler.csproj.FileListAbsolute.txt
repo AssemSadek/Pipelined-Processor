@@ -1,0 +1,28 @@
+C:\Users\Administrator\Desktop\uni\Arch\khairyAssembler\Assembler\Assembler\bin\Debug\Assembler.exe
+C:\Users\Administrator\Desktop\uni\Arch\khairyAssembler\Assembler\Assembler\obj\Debug\Assembler.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\uni\Arch\khairyAssembler\Assembler\Assembler\obj\Debug\Assembler.Form1.resources
+C:\Users\Administrator\Desktop\uni\Arch\khairyAssembler\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+C:\Users\Administrator\Desktop\uni\Arch\khairyAssembler\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\uni\Arch\khairyAssembler\Assembler\Assembler\obj\Debug\Assembler.exe
+C:\Users\Administrator\Desktop\uni\Arch\khairyAssembler\Assembler\Assembler\obj\Debug\Assembler.pdb
+C:\Users\Administrator\Desktop\uni\Arch\khairyAssembler\Assembler\Assembler\bin\Debug\Assembler.pdb
+G:\Assembler\Assembler\obj\Debug\Assembler.exe
+G:\Assembler\Assembler\obj\Debug\Assembler.pdb
+C:\Users\Mahmoud\Documents\University\Junior-1\Architecture\Project\Assembler+Testcases\Assembler+Testcases\Assembler\Assembler\obj\Debug\Assembler.exe
+C:\Users\Mahmoud\Documents\University\Junior-1\Architecture\Project\Assembler+Testcases\Assembler+Testcases\Assembler\Assembler\obj\Debug\Assembler.pdb
+D:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN301 - Computer Architecture\Assembler+Testcases\Assembler+Testcases\Assembler\Assembler\obj\Debug\Assembler.exe
+D:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN301 - Computer Architecture\Assembler+Testcases\Assembler+Testcases\Assembler\Assembler\obj\Debug\Assembler.pdb
+D:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN301 - Computer Architecture\Assembler+Testcases\Assembler+Testcases\Assembler\Assembler\bin\Debug\Assembler.exe
+D:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN301 - Computer Architecture\Assembler+Testcases\Assembler+Testcases\Assembler\Assembler\bin\Debug\Assembler.pdb
+D:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN301 - Computer Architecture\Assembler+Testcases\Assembler+Testcases\Assembler\Assembler\obj\Debug\Assembler.csprojResolveAssemblyReference.cache
+D:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN301 - Computer Architecture\Assembler+Testcases\Assembler+Testcases\Assembler\Assembler\obj\Debug\Assembler.Form1.resources
+D:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN301 - Computer Architecture\Assembler+Testcases\Assembler+Testcases\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+D:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN301 - Computer Architecture\Assembler+Testcases\Assembler+Testcases\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.Cache
+D:\Project\Assembler+Testcases\Assembler\Assembler\obj\Debug\Assembler.exe
+D:\Project\Assembler+Testcases\Assembler\Assembler\obj\Debug\Assembler.pdb
+D:\Project\Assembler+Testcases\Assembler\Assembler\bin\Debug\Assembler.exe
+D:\Project\Assembler+Testcases\Assembler\Assembler\bin\Debug\Assembler.pdb
+D:\Project\Assembler+Testcases\Assembler\Assembler\obj\Debug\Assembler.csprojResolveAssemblyReference.cache
+D:\Project\Assembler+Testcases\Assembler\Assembler\obj\Debug\Assembler.Form1.resources
+D:\Project\Assembler+Testcases\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+D:\Project\Assembler+Testcases\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.Cache
